@@ -1,0 +1,26 @@
+{
+  "name": "elementary-electron",
+  "version": "1.0.0",
+  "description": "Tutorial básico de electron por nodeschool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoxdc99/elementary-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoxdc99/elementary-electron/issues"
+  },
+  "homepage": "https://github.com/diegoxdc99/elementary-electron#readme",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  },
+  "devDependencies": {
+    "electron-builder": "^19.55.2"
+  }
+}
